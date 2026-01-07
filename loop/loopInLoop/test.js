@@ -16,8 +16,14 @@
 //     }
 // }
 
-for( let i = 3; i > 0 ; i--){
-    for(let j = 0; j < i; j++){
-        console.log("i = " + i + " " + "j = " + j +  " multiplies to get = " + i * j  + "( " + i + " " + j + " )")
+// for( let i = 3; i > 0 ; i--){
+//     for(let j = 0; j < i; j++){
+//         console.log("i = " + i + " " + "j = " + j +  " multiplies to get = " + i * j  + "( " + i + " " + j + " )")
+//     }
+// }
+
+for( let i = 5; i > 0 ; i--){
+    for( let j = 0; j < i; j++){
+        console.log("i = " + i + " " + "j = " + j );
     }
 }
