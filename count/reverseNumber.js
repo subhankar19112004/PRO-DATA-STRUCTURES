@@ -15,3 +15,12 @@ console.log(reverseNumber(12345));
 console.log(reverseNumber(-6789));
 console.log(reverseNumber(987654321));
 
+
+
+let myName = "Alice";
+const user = {
+    name : "Subhankar",
+    Alice : "developer"
+}
+console.log(user[myName])
+
