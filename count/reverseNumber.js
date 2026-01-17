@@ -24,3 +24,10 @@ const user = {
 }
 console.log(user[myName])
 
+let arr = [ "apple", "banana", "cherry" ];
+let i = 0;
+while( i < arr.length ){
+    console.log(arr[i]);
+    i++;
+}
+
